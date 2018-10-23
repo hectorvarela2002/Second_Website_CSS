@@ -12,6 +12,8 @@ div
 	margin-left:20px;
 }
 
+p.solid {border-style: solid;}
+
 border
 {
 	Border:10px solid black;
