@@ -14,7 +14,7 @@ div
 
 p
 {
-	Border:10px solid black;
+	border:10px solid black;
 }
 
 .header {
@@ -41,6 +41,25 @@ p
 	background-color:#ddd;
 	color:#1f234c;
 }
-	
+
+.leftcolumn1{
+	float: left;
+	width: 25%;
+}
+
+.middlecolumn1{
+	float: left;
+	width: 30%;
+}
+
+.card{
+	background-color:#3d5e99;
+	padding:10px;
+	margin-top:20px;
+}
+
+.boxed{
+	border:10px solid black;
+}
 	
   
