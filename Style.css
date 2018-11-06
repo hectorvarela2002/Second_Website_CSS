@@ -45,12 +45,17 @@ div
 
 .leftcolumn1{
 	float: left;
-	width: 40%;
+	width: 30%;
 }
 
 .columnright1{
 	float:right;
-	width:40%;
+	width:30%;
+}
+
+.columnmiddle1{
+	float:middle;
+	width:30%;
 }
 
 .card{
