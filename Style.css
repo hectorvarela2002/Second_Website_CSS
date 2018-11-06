@@ -26,13 +26,13 @@ div
 
 .topnav {
 	overflow:hidden;
-	background-color:#81a5e2;
+	background-color:#000000;
 }
 	
 .topnav a {
 	float: left;
 	display:block; 
-	color:#a3b3ce;
+	color:#d5dff2;
 	text-align: center;
 	padding: 14px 16px;
 	test-decoration:none;
