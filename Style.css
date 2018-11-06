@@ -19,7 +19,7 @@ div
 }
 
 .header {
-	background-color:#81a5e2;
+	background-color:#000000;
 	text-align: center;
 	padding:20px;
 }
@@ -53,18 +53,10 @@ div
 	width:30%;
 }
 
-.columnmiddle1{
-	float:middle;
-	width:30%;
-}
-
 .card{
-	background-color:#81a5e2;
+	background-color:#000000;
 	padding:10px;
 	margin-top:20px;
 }
 
-.boxed{
-	border:5px solid black;
-}
 	
