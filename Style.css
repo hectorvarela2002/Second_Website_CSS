@@ -53,6 +53,11 @@ div
 	width:30%;
 }
 
+.columnmiddle1{
+	float:middle;
+	width:30%;
+}
+
 .card{
 	background-color:#000000;
 	padding:10px;
