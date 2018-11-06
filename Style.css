@@ -66,4 +66,12 @@ div a{
 	 transform: rotate(270deg);
 }
 	
-  
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#81a5e2;
+    color:#000000;
+    text-align: center;
+}
