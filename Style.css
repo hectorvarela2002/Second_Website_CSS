@@ -1,10 +1,10 @@
-body /*Border around whole website 
+body /*Border around whole website/
 {
 	border: 10px solid black; 
 	background-color: #a3b3ce;
 }
 
-div /*Presents text in block fomrat
+div /*Presents text in block fomrat/
 {
 	Display:block;
 	margin-top:20px;
@@ -13,25 +13,25 @@ div /*Presents text in block fomrat
 	margin-left:20px;
 }
 
-.p /*Other way I tried to use a border but failed
+.p /*Other way I tried to use a border but failed/
 {
 	border:10px solid black;
 }
 
-.header /*Title going across top of website
+.header /*Title going across top of website/
 {
 	background-color:#000000;
 	text-align: center;
 	padding:20px;
 }
 
-.topnav /*Navigation bar
+.topnav /*Navigation bar/
 {
 	overflow:hidden;
 	background-color:#000000;
 }
 	
-.topnav a /* Placement and details for navigation bar
+.topnav a /* Placement and details for navigation bar/
 {
 	float: left;
 	display:block; 
@@ -41,38 +41,38 @@ div /*Presents text in block fomrat
 	test-decoration:none;
 }
 
-.topnav a:hover /*From notes in class that I did not incorporate
+.topnav a:hover /*From notes in class that I did not incorporate/
 {
 	background-color:#ddd;
 	color:#1f234c;
 }
 
-.leftcolumn1 /*Left column sizing for text
+.leftcolumn1 /*Left column sizing for text/
 {
 	float: left;
 	width: 30%;
 }
 
-.columnright1 /*right column sizing for pictures
+.columnright1 /*right column sizing for pictures/
 {
 	float:right;
 	width:25%;
 }
 
-.columnmiddle1 /*middle column sizing for text
+.columnmiddle1 /*middle column sizing for text/
 {
 	float:right;
 	width:30%;
 }
 
-.card /*Black body text is placed in the column on the left
+.card /*Black body text is placed in the column on the left/
 {
 	background-color:#000000;
 	padding:10px;
 	margin-top:20px;
 }
 
-.boxed /*You can't see the black border but it helps keep everything together in the card
+.boxed /*You can't see the black border but it helps keep everything together in the card/
 {
 	border:10px solid black;
 }
